@@ -2,11 +2,11 @@
 
 **Component Required :**
 
-1 . Arduino UNO Rev3 (with a USB Cable)
+1 . Arduino UNO REV3 (with a USB Cable)
 
 2 . Jumper wires (male to male headers , male to female headers)
 
-3 .10 kilo ohm resistor as a pull up
+3 . 10 kilo-ohm resistor(Pull-up resistor)
 
 4 . DHT 11 sensor
 
