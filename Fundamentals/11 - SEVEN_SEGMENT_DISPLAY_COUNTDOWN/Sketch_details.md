@@ -11,3 +11,5 @@
 3 . 220-ohm resistor
 
 4 . Seven Segment Display
+
+5 . Breadboard (Mini or Medium)
